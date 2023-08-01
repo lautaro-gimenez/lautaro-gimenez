@@ -11,7 +11,8 @@
   
 <p align="left">
     <a href="https://pfcargo.netlify.app/" ><img src="https://res.cloudinary.com/dbt5vgimv/image/upload/v1690407040/CarGo/Logo_k0qdgg.png" alt="Linkedin Logo" height="70" >
-    <a href="mailto:ezequiel.torcetta.97@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+      <br></br>
+    <a href="mailto:ezequiel.torcetta.97@gmail.com" ><img src="blob:https://web.whatsapp.com/35a2fd8e-c298-43c9-9b4a-82c510ed173d" alt="Gmail Logo" height="80" >
 </p>
 </p><h2 align="left">Languages and Tools:</h2><p align="left"> 
  
