@@ -5,12 +5,12 @@
 <h2 align="center">
  Soy Lautaro Gimenez
 </h2>
-- 📄 Buenas!! Mi nombre es Ezequiel y tengo 26 años. Recientemente terminé mi cursada en el bootcamp de <em>Henry</em>, por lo que me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Me considero una persona que está en constante aprendizaje y tiene mucha facilidad para trabajar en equipo. Acá abajo podés obtener más información sobre mi perfil.
+-Que tal?! soy un joven programador que acaba de terminar el bootcamp de programacion web Soy Henry, y estoy muy ancioso de poder comenzar a trabajar en este rubro. me considero una persona proactiva, y me encanta poder aprender nuevas tecnologías para poder seguir creciendo como programador
 <br></br>
-</p><h2 align="left">Contact:</h2><p align="left"> 
+</p><h2 align="left">Projects:</h2><p align="left"> 
   
 <p align="left">
-    <a href="https://pfcargo.netlify.app/login" ><img src="https://res.cloudinary.com/dbt5vgimv/image/upload/v1690407040/CarGo/Logo_k0qdgg.png" alt="Linkedin Logo" height="70" >
+    <a href="https://pfcargo.netlify.app/" ><img src="https://res.cloudinary.com/dbt5vgimv/image/upload/v1690407040/CarGo/Logo_k0qdgg.png" alt="Linkedin Logo" height="70" >
     <a href="mailto:ezequiel.torcetta.97@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
 </p><h2 align="left">Languages and Tools:</h2><p align="left"> 
